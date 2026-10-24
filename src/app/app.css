@@ -1,0 +1,19 @@
+:host {
+    display: block;
+    min-height: 100vh;
+    background-color: #28364e;
+}
+
+p {
+  display: block;
+  position: relative;
+  z-index: 1000;
+  margin: 30px;
+  padding: 20px;
+  background-color: yellow;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  border: 2px solid red;
+}
+
